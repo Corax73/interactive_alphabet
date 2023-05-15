@@ -1,5 +1,3 @@
-const charImg = document.getElementById('1');
-
 /**
  * reproduction of the pronunciation of a letter
  */
